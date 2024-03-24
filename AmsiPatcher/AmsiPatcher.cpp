@@ -4,5 +4,5 @@
 int main()
 {
 	Patcher* patch = new Patcher();
-	patch->ScanBufferPatch();
+	patch->OpenSessionPatch();
 }

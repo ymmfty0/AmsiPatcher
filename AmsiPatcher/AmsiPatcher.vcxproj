@@ -131,7 +131,6 @@
     <ClCompile Include="Patcher.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Internals.h" />
     <ClInclude Include="Patcher.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
